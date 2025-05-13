@@ -1,0 +1,16 @@
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+  }
+  input, textarea {
+    padding: 0.5em;
+    font-size: 1em;
+    width: 100%;
+    max-width: 400px;
+  }
+  button {
+    width: fit-content;
+    padding: 0.5em 1em;
+  }
+  
